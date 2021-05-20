@@ -5,6 +5,5 @@
 **Andi-Pleian/Andi-Pleian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💬 Ask me about Python, C/C++, C#
-- 🔭 I’m currently working on a small Android game with my team
+- 💬 Ask me about Python, C/C++
 - 📫 How to reach me: apleian01@yahoo.com
