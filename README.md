@@ -1,9 +1,9 @@
 # Hi👋, I'm Pleian Andrei
-### A passionate Computer Science Student from Romania 
+### A passionate Software Developer from Romania
 
 <!--
 **Andi-Pleian/Andi-Pleian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💬 Ask me about Arduino, C/C++
-- 📫 How to reach me: apleian01@yahoo.com
+- 💬 Ask me about Embedded Systems, Web Applications, and other software related topics
+- 📫 How to reach me: andreimihai.pleian@gmail.com
